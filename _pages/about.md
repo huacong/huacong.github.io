@@ -55,7 +55,7 @@ Yu Jiang, **Cong Hua**, Yifan Feng, Yue Gao<sup>\*</sup>. (Student first author)
 
 IEEE Transactions on Neural Networks and Learning Systems (**IEEE TNNLS**) 2023
 
-[\[Paper\]](https://ieeexplore.ieee.org/document/10316653) \|[\[Code\]](https://github.com/huacong) \| [\[Project\]](https://github.com/huacong)
+[\[Paper\]](https://ieeexplore.ieee.org/document/10316653) \|[\[Code\]](https://github.com/huacong/HSR) \| [\[Project\]](https://github.com/huacong/HSR)
 
 </div>
 </div>
