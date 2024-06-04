@@ -19,7 +19,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Cong Hua (华聪, E-mail: huacong23z@ict.ac.cn). Now I am a PhD. student of **Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)**, supervised by Prof. [Qingming Huang (黄庆明)](https://qmhuang-ucas.github.io/) (IEEE Fellow) and [Qianqian Xu (许倩倩)](https://qianqianxu010.github.io/) (Professor at ICT, CAS). I have received the B.E. degree in computer science and technology from [Jilin University](https://www.jlu.edu.cn/) in 2023. My research interest includes machine learning and multi-modal learning. I have authored or co-authored several academic papers in top-tier international conferences and journals, including T-PAMI, ICML,NeurIPS, AAAI, and ACM Multimedia. If you are interested in my research, please email me at huacong23z@ict.ac.cn.
+Hi! I'm Cong Hua (华聪, E-mail: huacong23z@ict.ac.cn). Now I am a PhD. student of **Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)**, supervised by Prof. [Qingming Huang (黄庆明)](https://qmhuang-ucas.github.io/) (IEEE Fellow) and [Qianqian Xu (许倩倩)](https://qianqianxu010.github.io/) (Professor at ICT, CAS). I have received the B.E. degree in computer science and technology from [Jilin University](https://www.jlu.edu.cn/) in 2023. My research interest includes machine learning and multi-modal learning. I have authored or co-authored several academic papers in top-tier international conferences and journals, including ICML and TNNLS. If you are interested in my research, please email me at <a href="huacong23z@ict.ac.cn">huacong23z@ict.ac.cn</a>.
 
 
 <!-- I am also lucky to have opportunities to collaborate with [Zhiyong Yang (杨智勇)](https://joshuaas.github.io/) (Assistant Professor at UCAS) and [Yangbangyan Jiang (姜阳邦彦)](https://jiangyangby.github.io/) (Postdoc at UCAS). -->
@@ -38,8 +38,8 @@ Hi! I'm Cong Hua (华聪, E-mail: huacong23z@ict.ac.cn). Now I am a PhD. student
 
 **Zitai Wang**, Qianqian Xu, Zhiyong Yang, Yuan He, Xiaochun Cao and Qingming Huang. Optimizing Partial Area Under the Top-k Curve: Theory and Practice. IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI, IF: 23.6**), 45(4): 5053–5069, Apr. 2023. \| [\[Code\]](https://github.com/wang22ti/AUTKC-optimization)
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022 (Spotlight)</div><img src='images/dpcml_nips22.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022 (Spotlight)</div><img src='images/dpcml_nips22.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 [A Unified Generalization Analysis of Re-Weighting and Logit-Adjustment for Imbalanced Learning](https://arxiv.org/abs/2310.04752)
 
@@ -79,20 +79,20 @@ Junwei He, Qianqian Xu, Yangbangyan Jiang, **Zitai Wang**, Qingming Huang. ADA-G
 
 
 # 📖 Academic Services
-## Journal
+<!-- ## Journal
  - IEEE Transactions on Pattern Analysis and Machine Intelligence (*IEEE T-PAMI*): Reviewer
  - IEEE Transactions on Circuits and Systems for Video Technology (*IEEE T-CSVT*): Reviewer
  - IEEE Transactions on Knowledge and Data Engineering (*IEEE T-KDE*): Reviewer
  - IEEE Transactions on Multimedia (*IEEE T-MM*): Reviewer
- - Pattern Recognition (*PR*): Reviewer
+ - Pattern Recognition (*PR*): Reviewer -->
 
 ## Conference
  - *NeruIPS*：PC Member (2024)
- - *CVPR*: PC Member (2024)
+ <!-- - *CVPR*: PC Member (2024)
  - *AAAI*: PC Member (2023, 2024)
  - *ACM MM*: PC Member (2023, 2024)
  - *ICDE*: Reviewer (2024)
- - *ACML*: Reviewer (2024)
+ - *ACML*: Reviewer (2024) -->
 
 # 💬 Invited Talks & Presentations
 - *2024.01*: &nbsp; TechBeat Talk of NeurIPS 2023. [\[Video\]](https://www.techbeat.net/talk-info?id=846).
@@ -111,7 +111,7 @@ Junwei He, Qianqian Xu, Yangbangyan Jiang, **Zitai Wang**, Qingming Huang. ADA-G
 <div class='school-box'>
 <div><img src='images/ucas.jpg' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2019.09 - now, Ph.D. Student.
+2023.09 - now, Ph.D. Student.
 
 Institute of Information Engineering, Chinese Academy of Sciences (中国科学院信息工程研究所, IIE, CAS).
 
