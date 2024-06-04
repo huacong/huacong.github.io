@@ -19,7 +19,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Cong Hua (华聪, E-mail: huacong23z@ict.ac.cn). Now I am a PhD. student of **Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)**, supervised by Prof. [Qingming Huang (黄庆明)](https://qmhuang-ucas.github.io/) (IEEE Fellow) and [Qianqian Xu (许倩倩)](https://qianqianxu010.github.io/) (Professor at ICT, CAS). I have received the B.E. degree in computer science and technology from [Jilin University](https://www.jlu.edu.cn/) in 2023. My research interest includes machine learning and multi-modal learning. I have authored or co-authored several academic papers in top-tier international conferences and journals, including ICML and TNNLS. If you are interested in my research, please email me at <a href="huacong23z@ict.ac.cn">huacong23z@ict.ac.cn</a>.
+Hi! I'm Cong Hua (华聪, E-mail: huacong23z@ict.ac.cn). Now I am a PhD. student of **Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)**, supervised by Prof. [Qingming Huang](https://qmhuang-ucas.github.io/) (IEEE Fellow) and [Qianqian Xu](https://qianqianxu010.github.io/) (Professor at ICT, CAS). I have received the B.E. degree in computer science and technology from [Jilin University](https://www.jlu.edu.cn/), advised by [Yu Jiang](https://ccst.jlu.edu.cn/info/1028/19116.htm) and [Yue Gao](https://www.gaoyue.org/). My research interests include machine learning and multi-modal learning. I have authored or co-authored several academic papers in top-tier international conferences and journals, including ICML and TNNLS. If you are interested in my research, please email me at <a href="huacong23z@ict.ac.cn">huacong23z@ict.ac.cn</a>.
 
 
 <!-- I am also lucky to have opportunities to collaborate with [Zhiyong Yang (杨智勇)](https://joshuaas.github.io/) (Assistant Professor at UCAS) and [Yangbangyan Jiang (姜阳邦彦)](https://jiangyangby.github.io/) (Postdoc at UCAS). -->
@@ -97,7 +97,7 @@ $28$ authors including **Cong Hua**. Computers  Graphics 2022
 <div class='school-box-text' markdown="1">
 2023.09 - now, Ph.D. Student.
 
-Institute of Computing Technology, Chinese Academy of Sciences (中国科学院计算技术研究所, ICT, CAS).
+Institute of Computing Technology, Chinese Academy of Sciences.
 
 University of Chinese Academy of Sciences, Beijing.
 </div>
@@ -110,7 +110,18 @@ University of Chinese Academy of Sciences, Beijing.
 
 School of Computer Science and Technology.
 
-Jilin University (吉林大学, JLU), Changchun.
+Jilin University, Changchun, Jilin.
+</div>
+</div>
+
+<div class='school-box'>
+<div><img src='images/UA.png' alt="sym" width="80"></div>
+<div class='school-box-text' markdown="1">
+2022.11 - 2023.02, Research internship supported by China Scholarship Council.
+
+Department of Radiology & Diagnostic Imaging in the Faculty of Medicine & Dentistry.
+
+University of Alberta, Edmonton, Alberta, Canada.
 </div>
 </div>
 
