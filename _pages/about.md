@@ -36,27 +36,25 @@ Hi! I'm Cong Hua (华聪, E-mail: huacong23z@ict.ac.cn). Now I am a PhD. student
 
 [ReconBoost:Boosting Can Achieve Modality Reconcilement](https://arxiv.org/pdf/2405.09321)
 
-\| [\[Code\]](https://github.com/wang22ti/DDC) \| [\[Video\]](https://recorder-v3.slideslive.com/#/share?share=86894&s=aa1e5d66-3548-4059-be25-69a624cf27cd) \| [\[Slides\]](https://neurips.cc/media/neurips-2023/Slides/71523.pdf) \| [\[PaperwithCode\]](https://paperswithcode.com/paper/a-unified-generalization-analysis-of-re)
+**Cong Hua**, Qianqian Xu<sup>\*</sup>, Shilong Bao, Zhiyong Yang, Qingming Huang<sup>\*</sup>. 
 
-**Cong Hua**, Qianqian Xu*, Shilong Bao, Zhiyong Yang, Qingming Huang*. International Conference on Machine Learning (**ICML**) 2024. (***CCF-A Rank***)  
+International Conference on Machine Learning (**ICML**) 2024. [\[Code\]](https://github.com/wang22ti/DDC) \| [\[Project\]](https://recorder-v3.slideslive.com/#/share?share=86894&s=aa1e5d66-3548-4059-be25-69a624cf27cd)
 
 </div>
 </div>
 
-[ReconBoost:Boosting Can Achieve Modality Reconcilement](https://arxiv.org/pdf/2210.13458)
-
-**Zitai Wang**, Qianqian Xu, Zhiyong Yang, Yuan He, Xiaochun Cao and Qingming Huang. OpenAUC: Towards AUC-Oriented Open-Set Recognition. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 25033--25045, 2022. **<font color='red'> (Spotlight, 5.4%) </font>** \| [\[Code\]](https://github.com/wang22ti/OpenAUC) \| [\[Video\]](https://nips.cc/virtual/2022/poster/55414) \| [\[Poster\]](https://nips.cc/media/PosterPDFs/NeurIPS%202022/55414.png?t=1669819483.1968117) \| [\[Slides\]](https://nips.cc/media/neurips-2022/Slides/55414.pdf)
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022 (Spotlight)</div><img src='images/dpcml_nips22.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/HSR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Unified Generalization Analysis of Re-Weighting and Logit-Adjustment for Imbalanced Learning](https://arxiv.org/abs/2310.04752)
+[Hierarchical Set-to-set Representation for 3D Cross-modal Retrieval.](https://ieeexplore.ieee.org/document/10316653)
 
-**Zitai Wang**, Qianqian Xu, Zhiyong Yang, Yuan He, Xiaochun Cao and Qingming Huang. A Unified Generalization Analysis of Re-Weighting and Logit-Adjustment for Imbalanced Learning. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 48417--48430, 2023. **<font color='red'> (Spotlight, 3.1%) </font>** \| [\[Code\]](https://github.com/wang22ti/DDC) \| [\[Video\]](https://recorder-v3.slideslive.com/#/share?share=86894&s=aa1e5d66-3548-4059-be25-69a624cf27cd) \| [\[Slides\]](https://neurips.cc/media/neurips-2023/Slides/71523.pdf) \| [\[PaperwithCode\]](https://paperswithcode.com/paper/a-unified-generalization-analysis-of-re)
+Yu Jiang, **Cong Hua**, Yifan Feng, Yue Gao<sup>\*</sup>.
+
+IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS) 2023.
 
 </div>
 </div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div>< img src='images/500x300.png' alt="sym" width="100%"></div></div>
