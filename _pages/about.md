@@ -40,7 +40,7 @@ Hi! I'm Cong Hua (华聪, E-mail: huacong23z@ict.ac.cn). Now I am a PhD. student
 
 International Conference on Machine Learning (**ICML**) 2024
 
-[\[Paper\]](https://arxiv.org/pdf/2405.09321) \|[\[Code\]](https://github.com/wang22ti/DDC) \| [\[Project\]](https://recorder-v3.slideslive.com/#/share?share=86894&s=aa1e5d66-3548-4059-be25-69a624cf27cd)
+[\[Paper\]](https://arxiv.org/pdf/2405.09321) \|[\[Code\]](https://github.com/huacong/ReconBoost) \| [\[Project\]](https://github.com/huacong/ReconBoost)
 
 - This paper explores a novel multi-modal **alternating** learning paradigm pursuing a reconciliation between the exploitation of uni-modal features and the exploration of cross-modal interactions.
 </div>
@@ -55,7 +55,7 @@ Yu Jiang, **Cong Hua**, Yifan Feng, Yue Gao<sup>\*</sup>. (Student first author)
 
 IEEE Transactions on Neural Networks and Learning Systems (**IEEE TNNLS**) 2023
 
-[\[Paper\]](https://ieeexplore.ieee.org/document/10316653) \|[\[Code\]](https://github.com/wang22ti/DDC) \| [\[Project\]](https://recorder-v3.slideslive.com/#/share?share=86894&s=aa1e5d66-3548-4059-be25-69a624cf27cd)
+[\[Paper\]](https://ieeexplore.ieee.org/document/10316653) \|[\[Code\]](https://github.com/huacong) \| [\[Project\]](https://github.com/huacong)
 
 </div>
 </div>
@@ -68,7 +68,7 @@ IEEE Transactions on Neural Networks and Learning Systems (**IEEE TNNLS**) 2023
 
 $28$ authors including **Cong Hua**. Computers  Graphics 2022
 
-[\[Paper\]](https://ieeexplore.ieee.org/document/10316653) \|[\[Track\]](https://www.moon-lab.tech/shrec22) 
+[\[Paper\]](https://doi.org/10.1016/j.cag.2022.07.020) \|[\[Track\]](https://www.moon-lab.tech/shrec22) 
 
 
 - This paper reports the results of the SHREC’22 track: Open-Set 3D Object Retrieval, the goal of which is to evaluate the performance of different retrieval algorithms under the Open-Set setting and modality-missing setting, respectively. 
