@@ -31,10 +31,10 @@ Hi! I'm Cong Hua (华聪, E-mail: huacong23z@ict.ac.cn). Now I am a PhD. student
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/ReconBoost.jpg' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/ReconBoost.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<font size=4>**ReconBoost:Boosting Can Achieve Modality Reconcilement**</font>
+**<font size=4>ReconBoost:Boosting Can Achieve Modality Reconcilement</font>**
 
 **Cong Hua**, Qianqian Xu<sup>\*</sup>, Shilong Bao, Zhiyong Yang, Qingming Huang<sup>\*</sup>
 
@@ -45,10 +45,11 @@ International Conference on Machine Learning (**ICML**) 2024
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2023</div><img src='images/HSR.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2023</div><img src='images/HSR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Hierarchical Set-to-set Representation for 3D Cross-modal Retrieval
+**<font size=4>Hierarchical Set-to-set Representation for 3D Cross-modal Retrieval</font>**
+
 Yu Jiang, **Cong Hua**, Yifan Feng, Yue Gao<sup>\*</sup>. (Student first author)
 
 IEEE Transactions on Neural Networks and Learning Systems (**IEEE TNNLS**) 2023
@@ -59,17 +60,19 @@ IEEE Transactions on Neural Networks and Learning Systems (**IEEE TNNLS**) 2023
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div>< img src='images/500x300.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SHREC'22</div>< img src='images/3DOS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-SHREC'22 Track: Open-Set 3D Object Retrieval
+**<font size=4>SHREC'22 Track: Open-Set 3D Object Retrieval</font>**
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+$28$ authors including **Cong Hua**
 
-[![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2405.09321) [![video](https://img.shields.io/badge/Video-Presentation-F9D371)](https://github.com/huacong/ReconBoost) [![slides](https://img.shields.io/badge/Presentation-Slides-B762C1)](https://github.com/huacong/ReconBoost) [![Website](https://img.shields.io/badge/Project-Website-87CEEB)](https://github.com/huacong/ReconBoost)
+Computers & Graphics 2022
 
-<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[\[Paper\]](https://ieeexplore.ieee.org/document/10316653) \|[\[Track\]](https://www.moon-lab.tech/shrec22) 
+
+
+- This paper reports the results of the SHREC’22 track: Open-Set 3D Object Retrieval.
 </div>
 </div>
 
