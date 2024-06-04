@@ -34,7 +34,7 @@ Hi! I'm Cong Hua (华聪, E-mail: huacong23z@ict.ac.cn). Now I am a PhD. student
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/ReconBoost.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**<font size=4>ReconBoost:Boosting Can Achieve Modality Reconcilement</font>**
+**<font size=4>ReconBoost: Boosting Can Achieve Modality Reconcilement</font>**
 
 **Cong Hua**, Qianqian Xu<sup>\*</sup>, Shilong Bao, Zhiyong Yang, Qingming Huang<sup>\*</sup>
 
@@ -66,14 +66,12 @@ IEEE Transactions on Neural Networks and Learning Systems (**IEEE TNNLS**) 2023
 
 **<font size=4>SHREC'22 Track: Open-Set 3D Object Retrieval</font>**
 
-$28$ authors including **Cong Hua**
-
-Computers  Graphics 2022
+$28$ authors including **Cong Hua**. Computers  Graphics 2022
 
 [\[Paper\]](https://ieeexplore.ieee.org/document/10316653) \|[\[Track\]](https://www.moon-lab.tech/shrec22) 
 
 
-- This paper reports the results of the SHREC’22 track: Open-Set 3D Object Retrieval.
+- This paper reports the results of the SHREC’22 track: Open-Set 3D Object Retrieval, the goal of which is to evaluate the performance of different retrieval algorithms under the Open-Set setting and modality-missing setting, respectively. 
 </div>
 </div>
 
