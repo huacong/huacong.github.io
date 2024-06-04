@@ -44,50 +44,22 @@ Hi! I'm Cong Hua (华聪, E-mail: huacong23z@ict.ac.cn). Now I am a PhD. student
 [OpenAUC: Towards AUC-Oriented Open-Set Recognition](https://arxiv.org/pdf/2210.13458)
 
 **Zitai Wang**, Qianqian Xu, Zhiyong Yang, Yuan He, Xiaochun Cao and Qingming Huang. OpenAUC: Towards AUC-Oriented Open-Set Recognition. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 25033--25045, 2022. **<font color='red'> (Spotlight, 5.4%) </font>** \| [\[Code\]](https://github.com/wang22ti/OpenAUC) \| [\[Video\]](https://nips.cc/virtual/2022/poster/55414) \| [\[Poster\]](https://nips.cc/media/PosterPDFs/NeurIPS%202022/55414.png?t=1669819483.1968117) \| [\[Slides\]](https://nips.cc/media/neurips-2022/Slides/55414.pdf)
-<!-- </div>
-</div> -->
 
-[Confederated Learning: Going Beyond Centralization](https://github.com/wang22ti/Confederated-Learning/blob/main/mmfp1684-wang.pdf)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div>< img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-**Zitai Wang,** Qianqian Xu, Ke Ma, Xiaochun Cao and Qingming Huang. Confederated Learning: Going Beyond Centralization. ACM Conference on Multimedia (**ACM MM**), 2939–2947, 2022. **<font color='red'> (Oral, 9.4%) </font>** \| [\[Code\]](https://github.com/wang22ti/Confederated-Learning) \| [\[Slides\]](https://github.com/wang22ti/Confederated-Learning/blob/main/MM2022_slides.pdf)
+[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-[Implicit feedbacks are not always favorable: Iterative Relabeled One-Class Collaborative Filtering against Noisy Interactions](https://github.com/wang22ti/Iterative-Relabeled-One-Class-Collaborative-Filtering-against-Noisy-Interactions/blob/main/mfp1549-wangA.pdf)
+**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-**Zitai Wang**, Qianqian Xu, Zhiyong Yang, Xiaochun Cao and Qingming Huang. Implicit feedbacks are not always favorable: Iterative Relabeled One-Class Collaborative Filtering against Noisy Interactions. ACM Conference on Multimedia (**ACM MM**), 3070–3078, 2021. \| [\[Code\]](https://github.com/wang22ti/Iterative-Relabeled-One-Class-Collaborative-Filtering-against-Noisy-Interactions) \| [\[Poster\]](https://github.com/wang22ti/Iterative-Relabeled-One-Class-Collaborative-Filtering-against-Noisy-Interactions/blob/main/Poster-MM21-zitai.pdf) \| [\[Slides\]](https://github.com/wang22ti/Iterative-Relabeled-One-Class-Collaborative-Filtering-against-Noisy-Interactions/blob/main/MM2021_slides.pdf)
-
-[Adversarial Preference Learning with Pairwise Comparisons](https://github.com/wang22ti/Adversarial-Preference-Learning-with-Pairwise-Comparisons/blob/master/MM2019-fp337.pdf)
-
-**Zitai Wang**, Qianqian Xu, Ke Ma, Yangbangyan Jiang, Xiaochun Cao and Qingming Huang. Adversarial Preference Learning with Pairwise Comparisons. ACM Conference on Multimedia (**ACM MM**), 656–664, 2019. **<font color='red'> (Oral, 5.6%) </font>** \| [\[Code\]](https://github.com/wang22ti/Adversarial-Preference-Learning-with-Pairwise-Comparisons) \| [\[Poster\]](https://github.com/wang22ti/Adversarial-Preference-Learning-with-Pairwise-Comparisons/blob/master/Poster-MM19-Adversarial%20Preference%20Learning%20with%20Pairwise%20Comparisons.pdf) \| [\[Slides\]](https://github.com/wang22ti/Adversarial-Preference-Learning-with-Pairwise-Comparisons/blob/master/Slide_MM2019_Adversarial%20Preference%20Learning%20with%20Pairwise%20Comparisons.pdf)
-
----
-
-[Harnessing Hierarchical Label Distribution Variations in Test Agnostic Long-tail Recognition](https://arxiv.org/abs/2405.07780)
-
-Zhiyong Yang, Qianqian Xu, **Zitai Wang**, Sicong Li, Boyu Han, Shilong Bao, Xiaochun Cao, Qingming Huang. Harnessing Hierarchical Label Distribution Variations in Test Agnostic Long-tail Recognition. International Conference on Machine Learning (**ICML**), 2024. (Accepted) \| [\[Code\]](https://github.com/scongl/DirMixE)
-
-[When Measures are Unreliable: Imperceptible Adversarial Perturbations toward Top-k Multi-Label Learning](https://arxiv.org/pdf/2309.00007)
-
-Yuchen Sun, Qianqian Xu, **Zitai Wang**, and Qingming Huang. When Measures are Unreliable: Imperceptible Adversarial Perturbations toward Top-k Multi-Label Learning. ACM Conference on Multimedia (**ACM MM**), 1515–1526, 2023. **<font color='red'> (Oral, 5.4%) </font>** \| [\[Code\]](https://github.com/Yuchen-Sunflower/TKMIA)
-
-[ADA-GAD: Anomaly-Denoised Autoencoders for Graph Anomaly Detection](https://arxiv.org/abs/2312.14535)
-
-Junwei He, Qianqian Xu, Yangbangyan Jiang, **Zitai Wang**, Qingming Huang. ADA-GAD: Anomaly-Denoised Autoencoders for Graph Anomaly Detection. AAAI Conference on Artificial Intelligence (**AAAI**), 8481–8489, 2024. \| [\[Code\]](https://github.com/jweihe/ADA-GAD)
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
 
 
 # 📖 Academic Services
-<!-- ## Journal
- - IEEE Transactions on Pattern Analysis and Machine Intelligence (*IEEE T-PAMI*): Reviewer
- - IEEE Transactions on Circuits and Systems for Video Technology (*IEEE T-CSVT*): Reviewer
- - IEEE Transactions on Knowledge and Data Engineering (*IEEE T-KDE*): Reviewer
- - IEEE Transactions on Multimedia (*IEEE T-MM*): Reviewer
- - Pattern Recognition (*PR*): Reviewer -->
-
  - *NeruIPS*：PC Member (2024)
- <!-- - *CVPR*: PC Member (2024)
- - *AAAI*: PC Member (2023, 2024)
- - *ACM MM*: PC Member (2023, 2024)
- - *ICDE*: Reviewer (2024)
- - *ACML*: Reviewer (2024) -->
 
 <!-- # 💬 Invited Talks & Presentations
 - *2024.01*: &nbsp; TechBeat Talk of NeurIPS 2023. [\[Video\]](https://www.techbeat.net/talk-info?id=846).
