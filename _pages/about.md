@@ -31,36 +31,38 @@ Hi! I'm Cong Hua (华聪, E-mail: huacong23z@ict.ac.cn). Now I am a PhD. student
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/ReconBoost.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/ReconBoost.jpg' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ReconBoost:Boosting Can Achieve Modality Reconcilement](https://arxiv.org/pdf/2405.09321)
+<font size=4>**ReconBoost:Boosting Can Achieve Modality Reconcilement**</font>
 
-**Cong Hua**, Qianqian Xu<sup>\*</sup>, Shilong Bao, Zhiyong Yang, Qingming Huang<sup>\*</sup>. 
+**Cong Hua**, Qianqian Xu<sup>\*</sup>, Shilong Bao, Zhiyong Yang, Qingming Huang<sup>\*</sup>
 
-International Conference on Machine Learning (**ICML**) 2024. [\[Code\]](https://github.com/wang22ti/DDC) \| [\[Project\]](https://recorder-v3.slideslive.com/#/share?share=86894&s=aa1e5d66-3548-4059-be25-69a624cf27cd)
+International Conference on Machine Learning (**ICML**) 2024
+
+[\[Paper\]](https://arxiv.org/pdf/2405.09321) \|[\[Code\]](https://github.com/wang22ti/DDC) \| [\[Project\]](https://recorder-v3.slideslive.com/#/share?share=86894&s=aa1e5d66-3548-4059-be25-69a624cf27cd)
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/HSR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2023</div><img src='images/HSR.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Hierarchical Set-to-set Representation for 3D Cross-modal Retrieval.](https://ieeexplore.ieee.org/document/10316653)
+Hierarchical Set-to-set Representation for 3D Cross-modal Retrieval
+Yu Jiang, **Cong Hua**, Yifan Feng, Yue Gao<sup>\*</sup>. (Student first author)
 
-Yu Jiang, **Cong Hua**, Yifan Feng, Yue Gao<sup>\*</sup>.
+IEEE Transactions on Neural Networks and Learning Systems (**IEEE TNNLS**) 2023
 
-IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS) 2023.
+[\[Paper\]](https://ieeexplore.ieee.org/document/10316653) \|[\[Code\]](https://github.com/wang22ti/DDC) \| [\[Project\]](https://recorder-v3.slideslive.com/#/share?share=86894&s=aa1e5d66-3548-4059-be25-69a624cf27cd)
 
 </div>
 </div>
 
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div>< img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div>< img src='images/500x300.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+SHREC'22 Track: Open-Set 3D Object Retrieval
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
