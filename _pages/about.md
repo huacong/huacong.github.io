@@ -42,6 +42,7 @@ International Conference on Machine Learning (**ICML**) 2024
 
 [\[Paper\]](https://arxiv.org/pdf/2405.09321) \|[\[Code\]](https://github.com/wang22ti/DDC) \| [\[Project\]](https://recorder-v3.slideslive.com/#/share?share=86894&s=aa1e5d66-3548-4059-be25-69a624cf27cd)
 
+- This paper explores a novel multi-modal **alternating** learning paradigm pursuing a reconciliation between the exploitation of uni-modal features and the exploration of cross-modal interactions.
 </div>
 </div>
 
@@ -60,14 +61,14 @@ IEEE Transactions on Neural Networks and Learning Systems (**IEEE TNNLS**) 2023
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SHREC'22</div>< img src='images/3DOS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SHREC'22</div><img src='images/3DOS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **<font size=4>SHREC'22 Track: Open-Set 3D Object Retrieval</font>**
 
 $28$ authors including **Cong Hua**
 
-Computers & Graphics 2022
+Computers  Graphics 2022
 
 [\[Paper\]](https://ieeexplore.ieee.org/document/10316653) \|[\[Track\]](https://www.moon-lab.tech/shrec22) 
 
@@ -88,8 +89,8 @@ Computers & Graphics 2022
 - *2023.02*: &nbsp; AI TIME Youth PhD Talk of NeurIPS 2022. [\[Video\]](https://www.bilibili.com/video/BV1624y1G7un/?spm_id_from=333.999.0.0&vd_source=356f7336a633368638ff41a90a11197b). -->
 
 # 🎖 Honors and Awards
-- *2019* Excellent graduate thesis of Jilin University. (吉林大学优秀毕业论文)
-- *2019* Excellent graduate of Jilin University. (吉林大学优秀毕业生) 
+- *2023* Excellent graduate thesis of Jilin University. (吉林大学优秀毕业论文)
+- *2023* Excellent graduate of Jilin University. (吉林大学优秀毕业生) 
 
 # 🎓 Educations
 
