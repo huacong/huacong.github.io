@@ -31,10 +31,6 @@ Hi! I'm Cong Hua (华聪, E-mail: huacong23z@ict.ac.cn). Now I am a PhD. student
 
 # 📝 Publications 
 
-[Optimizing Partial Area Under the Top-k Curve: Theory and Practice](https://arxiv.org/pdf/2209.01398)
-
-**Zitai Wang**, Qianqian Xu, Zhiyong Yang, Yuan He, Xiaochun Cao and Qingming Huang. Optimizing Partial Area Under the Top-k Curve: Theory and Practice. IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI, IF: 23.6**), 45(4): 5053–5069, Apr. 2023. \| [\[Code\]](https://github.com/wang22ti/AUTKC-optimization)
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022 (Spotlight)</div><img src='images/dpcml_nips22.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -86,7 +82,6 @@ Junwei He, Qianqian Xu, Yangbangyan Jiang, **Zitai Wang**, Qingming Huang. ADA-G
  - IEEE Transactions on Multimedia (*IEEE T-MM*): Reviewer
  - Pattern Recognition (*PR*): Reviewer -->
 
-## Conference
  - *NeruIPS*：PC Member (2024)
  <!-- - *CVPR*: PC Member (2024)
  - *AAAI*: PC Member (2023, 2024)
@@ -102,9 +97,8 @@ Junwei He, Qianqian Xu, Yangbangyan Jiang, **Zitai Wang**, Qingming Huang. ADA-G
 - *2023.02*: &nbsp; AI TIME Youth PhD Talk of NeurIPS 2022. [\[Video\]](https://www.bilibili.com/video/BV1624y1G7un/?spm_id_from=333.999.0.0&vd_source=356f7336a633368638ff41a90a11197b). -->
 
 # 🎖 Honors and Awards
-- *2023* National Scholarship, Ministry of Education of the People’s Republic of China. (国家奖学金)
-- *2021* Director Scholarship (Outstanding Prize), IIE, CAS. (中国科学院信工所所长优秀奖)
-- *2019* Excellent Graduate of Beijing. (北京市优秀毕业生) 
+- *2019* Excellent graduate thesis of Jilin University. (吉林大学优秀毕业论文)
+- *2019* Excellent graduate of Jilin University. (吉林大学优秀毕业生) 
 
 # 🎓 Educations
 
