@@ -24,9 +24,6 @@ Hi! I'm Cong Hua (华聪, E-mail: huacong23z@ict.ac.cn). Now I am a PhD. student
 
 <!-- I am also lucky to have opportunities to collaborate with [Zhiyong Yang (杨智勇)](https://joshuaas.github.io/) (Assistant Professor at UCAS) and [Yangbangyan Jiang (姜阳邦彦)](https://jiangyangby.github.io/) (Postdoc at UCAS). -->
 
-
-
-
 <!-- # 🔥 News
 - *2022.11*: &nbsp;🎉🎉 I have obtained the National Scholarship (国家奖学金) from the Ministry of Education of the People’s Republic of China.
 - *2022.09*: &nbsp;🎉🎉 Two of our papers have been accepted by NeurIPS 2022 (One paper has been selected as an oral presentation and one is a poster). 
@@ -44,6 +41,9 @@ Hi! I'm Cong Hua (华聪, E-mail: huacong23z@ict.ac.cn). Now I am a PhD. student
 [A Unified Generalization Analysis of Re-Weighting and Logit-Adjustment for Imbalanced Learning](https://arxiv.org/abs/2310.04752)
 
 **Zitai Wang**, Qianqian Xu, Zhiyong Yang, Yuan He, Xiaochun Cao and Qingming Huang. A Unified Generalization Analysis of Re-Weighting and Logit-Adjustment for Imbalanced Learning. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 48417--48430, 2023. **<font color='red'> (Spotlight, 3.1%) </font>** \| [\[Code\]](https://github.com/wang22ti/DDC) \| [\[Video\]](https://recorder-v3.slideslive.com/#/share?share=86894&s=aa1e5d66-3548-4059-be25-69a624cf27cd) \| [\[Slides\]](https://neurips.cc/media/neurips-2023/Slides/71523.pdf) \| [\[PaperwithCode\]](https://paperswithcode.com/paper/a-unified-generalization-analysis-of-re)
+
+</div>
+</div>
 
 [OpenAUC: Towards AUC-Oriented Open-Set Recognition](https://arxiv.org/pdf/2210.13458)
 
@@ -94,12 +94,12 @@ Junwei He, Qianqian Xu, Yangbangyan Jiang, **Zitai Wang**, Qingming Huang. ADA-G
  - *ICDE*: Reviewer (2024)
  - *ACML*: Reviewer (2024) -->
 
-# 💬 Invited Talks & Presentations
+<!-- # 💬 Invited Talks & Presentations
 - *2024.01*: &nbsp; TechBeat Talk of NeurIPS 2023. [\[Video\]](https://www.techbeat.net/talk-info?id=846).
 - *2023.12*: &nbsp; AI TIME Talk of NeurIPS 2023. [\[Page\]](https://mp.weixin.qq.com/s/ur6aB8ojkmlhgtW-bIxLXw).
 - *2023.12*: &nbsp; Young Scientists Conference of CSIG. [\[Poster\]](https://github.com/wang22ti/OpenAUC/blob/main/CSIG%20youth%20poster%20-%20OpenAUC.jpg).
 - *2023.10*: &nbsp; PhD. student Forum of PRCV 2023. [\[Page\]](https://mp.weixin.qq.com/s/2mSlWBu7NYo88SjFD8Wn8Q).
-- *2023.02*: &nbsp; AI TIME Youth PhD Talk of NeurIPS 2022. [\[Video\]](https://www.bilibili.com/video/BV1624y1G7un/?spm_id_from=333.999.0.0&vd_source=356f7336a633368638ff41a90a11197b).
+- *2023.02*: &nbsp; AI TIME Youth PhD Talk of NeurIPS 2022. [\[Video\]](https://www.bilibili.com/video/BV1624y1G7un/?spm_id_from=333.999.0.0&vd_source=356f7336a633368638ff41a90a11197b). -->
 
 # 🎖 Honors and Awards
 - *2023* National Scholarship, Ministry of Education of the People’s Republic of China. (国家奖学金)
@@ -113,20 +113,20 @@ Junwei He, Qianqian Xu, Yangbangyan Jiang, **Zitai Wang**, Qingming Huang. ADA-G
 <div class='school-box-text' markdown="1">
 2023.09 - now, Ph.D. Student.
 
-Institute of Information Engineering, Chinese Academy of Sciences (中国科学院信息工程研究所, IIE, CAS).
+Institute of Computing Technology, Chinese Academy of Sciences (中国科学院计算技术研究所, ICT, CAS).
 
 University of Chinese Academy of Sciences, Beijing.
 </div>
 </div>
 
 <div class='school-box'>
-<div><img src='images/BJTU.png' alt="sym" width="80"></div>
+<div><img src='images/JLU.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2015.09 - 2019.06, Undergraduate.
+2019.09 - 2023.06, Undergraduate.
 
-School of Computer and Information Technology.
+School of Computer Science and Technology.
 
-Beijing Jiaotong University (北京交通大学, BJTU), Beijing.
+Jilin University (吉林大学, JLU), Changchun.
 </div>
 </div>
 
