@@ -117,7 +117,7 @@ Jilin University, Changchun, Jilin.
 <div class='school-box'>
 <div><img src='images/UA.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2022.11 - 2023.02, Research internship supported by China Scholarship Council.
+2022.11 - 2023.02, Research internship funded by the China Scholarship Council.
 
 Department of Radiology & Diagnostic Imaging in the Faculty of Medicine & Dentistry.
 
