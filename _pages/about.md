@@ -66,7 +66,7 @@ IEEE Transactions on Neural Networks and Learning Systems (**IEEE TNNLS**) 2023
 
 **<font size=4>SHREC'22 Track: Open-Set 3D Object Retrieval</font>**
 
-$28$ authors including **Cong Hua**. Computers \& Graphics 2022
+$28$ authors including **Cong Hua**. Computers Graphics 2022
 
 [\[Paper\]](https://doi.org/10.1016/j.cag.2022.07.020) \|[\[Track\]](https://www.moon-lab.tech/shrec22) 
 
@@ -119,7 +119,7 @@ Jilin University, Changchun, Jilin.
 <div class='school-box-text' markdown="1">
 2022.11 - 2023.02, Research internship funded by the China Scholarship Council.
 
-Department of Radiology \& Diagnostic Imaging in the Faculty of Medicine \& Dentistry.
+Department of Radiology and Diagnostic Imaging in the Faculty of Medicine and Dentistry.
 
 University of Alberta, Edmonton, Alberta, Canada.
 </div>
