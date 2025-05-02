@@ -94,14 +94,13 @@ $28$ authors including **Cong Hua**. Computers Graphics 2022
 
 
 # 📖 Academic Services
-
 **Conferences**
 
  - *NeurIPS*: Reviewer (2024, 2025)
  - *ICLR*: Reviewer (2025)
  - *AISTATS*: Reviewer (2025)
  - *ICML*: Reviewer (2025)
-
+   
 **Journals**
 
  - IEEE Transactions on Multimedia (T-MM): Reviewer
