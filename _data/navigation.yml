@@ -12,14 +12,16 @@ main:
   - title: "Academic Services"
     url: "/#-academic-services"
 
+  - title: "Invited Talks"
+    url: "/#-invited-talks"
+    
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
   - title: "Education"
     url: "/#-educations"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+
 
   # - title: "Project"
   #   url: "/#-Project"
