@@ -19,7 +19,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Cong Hua (华聪, E-mail: huacong23z@ict.ac.cn). Now I am a PhD. student of **Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)**, supervised by Prof. [Qingming Huang](https://qmhuang-ucas.github.io/) (IEEE Fellow) and [Qianqian Xu](https://qianqianxu010.github.io/) (Professor at ICT, CAS). I have received the B.E. degree in computer science and technology from [Jilin University](https://www.jlu.edu.cn/), advised by [Yu Jiang](https://ccst.jlu.edu.cn/info/1028/19116.htm) and [Yue Gao](https://www.gaoyue.org/). My research interests include machine learning and multi-modal learning. I have authored or co-authored several academic papers in top-tier international conferences and journals, including ICML and TNNLS. If you are interested in my research, please email me at <a href="huacong23z@ict.ac.cn">huacong23z@ict.ac.cn</a>.
+Hi! I'm Cong Hua (华聪, E-mail: huacong23z@ict.ac.cn). Now I am a PhD. Student of **Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)**, supervised by Prof. [Qingming Huang](https://qmhuang-ucas.github.io/) (IEEE Fellow) and [Qianqian Xu](https://qianqianxu010.github.io/) (Professor at ICT, CAS). I have received the B.E. degree in computer science and technology from [Jilin University](https://www.jlu.edu.cn/), advised by [Yu Jiang](https://ccst.jlu.edu.cn/info/1028/19116.htm) and [Yue Gao](https://www.gaoyue.org/). My research interests include machine learning and multi-modal learning. I have authored or co-authored several academic papers in top-tier international conferences and journals, including ICML and TNNLS. If you are interested in my research, please email me at <a href="huacong23z@ict.ac.cn">huacong23z@ict.ac.cn</a>.
 
 
 <!-- I am also lucky to have opportunities to collaborate with [Zhiyong Yang (杨智勇)](https://joshuaas.github.io/) (Assistant Professor at UCAS) and [Yangbangyan Jiang (姜阳邦彦)](https://jiangyangby.github.io/) (Postdoc at UCAS). -->
@@ -30,6 +30,23 @@ Hi! I'm Cong Hua (华聪, E-mail: huacong23z@ict.ac.cn). Now I am a PhD. student
 - *2022.06*: &nbsp;🎉🎉 Our XCurve-v1.0.0 library has been released! Please Try now and give us feedback! -->
 
 # 📝 Publications 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/openworldauc.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**<font size=4>OpenworldAUC: Towards Unified Evaluation and Optimization for Open-world Prompt Tuning</font>**
+
+**Cong Hua**, Qianqian Xu<sup>\*</sup>, Zhiyong Yang, Zitai Wang, Shilong Bao, Qingming Huang<sup>\*</sup>
+
+International Conference on Machine Learning (**ICML**) 2025
+
+[\[Paper\]](https://huacong.github.io/) \|[\[Code\]](https://huacong.github.io/) \| [\[Project\]](https://huacong.github.io/)
+
+- A novel metric named **OpenworldAUC** is proposed for the Open-world Prompt Tuning (OPT) task, which embraces base-to-new detection, base classification, and new classification in a **unified** way and is also insensitive towards varying domain distributions. To pursue this, a learning framework, Gated Mixture-of-Prompts (GMoP), is proposed with a theoretical guarantee, where multiple prompts jointly optimize OpenworldAUC via a divide-and-conquer strategy.
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/ReconBoost.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -77,14 +94,27 @@ $28$ authors including **Cong Hua**. Computers Graphics 2022
 
 
 # 📖 Academic Services
- - *NeruIPS*：PC Member (2024)
 
-<!-- # 💬 Invited Talks & Presentations
-- *2024.01*: &nbsp; TechBeat Talk of NeurIPS 2023. [\[Video\]](https://www.techbeat.net/talk-info?id=846).
-- *2023.12*: &nbsp; AI TIME Talk of NeurIPS 2023. [\[Page\]](https://mp.weixin.qq.com/s/ur6aB8ojkmlhgtW-bIxLXw).
-- *2023.12*: &nbsp; Young Scientists Conference of CSIG. [\[Poster\]](https://github.com/wang22ti/OpenAUC/blob/main/CSIG%20youth%20poster%20-%20OpenAUC.jpg).
-- *2023.10*: &nbsp; PhD. student Forum of PRCV 2023. [\[Page\]](https://mp.weixin.qq.com/s/2mSlWBu7NYo88SjFD8Wn8Q).
-- *2023.02*: &nbsp; AI TIME Youth PhD Talk of NeurIPS 2022. [\[Video\]](https://www.bilibili.com/video/BV1624y1G7un/?spm_id_from=333.999.0.0&vd_source=356f7336a633368638ff41a90a11197b). -->
+**Conferences**
+
+ - *NeurIPS*: Reviewer (2024, 2025)
+ - *ICLR*: Reviewer (2025)
+ - *AISTATS*: Reviewer (2025)
+ - *ICML*: Reviewer (2025)
+
+**Journals**
+
+ - IEEE Transactions on Multimedia (T-MM): Reviewer
+ - IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS): Reviewer
+ - IEEE Transactions on Circuits and Systems for Video Technology publication information (T-CSVT): Reviewer
+ - ACM Transactions on Multimedia Computing, Communications and Applications (TOMM): Reviewer
+
+
+ # 💬 Invited Talks & Presentations
+- *2024.12*: &nbsp; TechBeat Talk of ICML 2024. [\[Video\]](https://www.techbeat.net/talk-info?id=932).
+- *2024.12*: &nbsp; Gave a talk about "Modality competition and Modality reconcilement" @ Gaoling School of Artificial Intelligence, Renmin University of China! Thanks for the invitation from Prof. [Di Hu](https://dtaoo.github.io/)! [\[Slides\]](https://github.com/huacong/ReconBoost/blob/main/Reconboost-slides.pdf).
+- *2024.12*: &nbsp; Young Scientists Conference of CSIG. [\[Poster\]](https://github.com/huacong/ReconBoost/blob/main/%E5%8D%8E%E8%81%AA_CSIG2024_Poster.png).
+
 
 # 🎖 Honors and Awards
 - *2023* Excellent graduate thesis of Jilin University. (吉林大学优秀毕业论文)
