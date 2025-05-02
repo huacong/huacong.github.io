@@ -100,7 +100,7 @@ $28$ authors including **Cong Hua**. Computers Graphics 2022
  - *ICLR*: Reviewer (2025)
  - *AISTATS*: Reviewer (2025)
  - *ICML*: Reviewer (2025)
-   
+ 
 **Journals**
 
  - IEEE Transactions on Multimedia (T-MM): Reviewer
@@ -108,9 +108,10 @@ $28$ authors including **Cong Hua**. Computers Graphics 2022
  - IEEE Transactions on Circuits and Systems for Video Technology publication information (T-CSVT): Reviewer
  - ACM Transactions on Multimedia Computing, Communications and Applications (TOMM): Reviewer
 
+
 # 💬 Invited Talks & Presentations
 - *2024.12*: &nbsp; TechBeat Talk of ICML 2024. [\[Video\]](https://www.techbeat.net/talk-info?id=932).
-- *2024.12*: &nbsp; Gave a talk about "Modality competition and Modality reconcilement" @ Gaoling School of Artificial Intelligence, Renmin University of China! Thanks for the invitation from Prof. [Di Hu](https://dtaoo.github.io/)! [\[Slides\]](https://github.com/huacong/ReconBoost/blob/main/Reconboost-slides.pdf).
+- *2024.12*: &nbsp; Give a talk about "Modality competition and Modality reconcilement" @ Gaoling School of Artificial Intelligence, Renmin University of China! Thanks for the invitation from Prof. [Di Hu](https://dtaoo.github.io/)! [\[Slides\]](https://github.com/huacong/ReconBoost/blob/main/Reconboost-slides.pdf).
 - *2024.12*: &nbsp; Young Scientists Conference of CSIG. [\[Poster\]](https://github.com/huacong/ReconBoost/blob/main/%E5%8D%8E%E8%81%AA_CSIG2024_Poster.png).
 
 
