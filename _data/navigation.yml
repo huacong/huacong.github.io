@@ -15,11 +15,11 @@ main:
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Educations"
+  - title: "Education"
     url: "/#-educations"
 
-  # - title: "Invited Talks"
-  #   url: "/#-invited-talks"
+  - title: "Invited Talks"
+    url: "/#-invited-talks"
 
   # - title: "Project"
   #   url: "/#-Project"
