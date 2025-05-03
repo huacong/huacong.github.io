@@ -43,7 +43,7 @@ International Conference on Machine Learning (**ICML**) 2025
 
 [\[Paper\]](https://huacong.github.io/) \|[\[Code\]](https://huacong.github.io/) \| [\[Project\]](https://huacong.github.io/)
 
-- A novel metric named **OpenworldAUC** is proposed for the Open-world Prompt Tuning (OPT) task, which embraces base-to-new detection, base classification, and new classification in a **unified** way and is also insensitive towards varying domain distributions. To pursue this, a learning framework, Gated Mixture-of-Prompts (GMoP), is proposed with a theoretical guarantee, where multiple prompts jointly optimize OpenworldAUC via a divide-and-conquer strategy.
+- This paper proposes **OpenworldAUC**, a metric for Open-World Prompt Tuning, unifying base-to-new detection, base/new classification, and robustness to domain shifts. The Gated Mixture-of-Prompts framework jointly optimizes OpenworldAUC via multi-prompt collaboration under a divide-and-conquer strategy, supported by theoretical guarantees.
 </div>
 </div>
 
