@@ -74,6 +74,25 @@ IEEE Transactions on Neural Networks and Learning Systems (**IEEE TNNLS**) 2023
 
 [\[Paper\]](https://ieeexplore.ieee.org/document/10316653) \|[\[Code\]](https://github.com/huacong/HSR) \| [\[Project\]](https://github.com/huacong/HSR)
 
+- This paper proposes a hierarchical set-to-set representation  and a corresponding hierarchical similarity that incorporates global-to-global and local-to-local similarity metrics for 3-D object cross-modal retrieval.
+
+</div>
+</div>
+
+---------------------------
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CJC'25</div><img src='images/robustauc.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**<font size=4>Efficient Adversarial Training for AUC Optimization</font>**
+
+Shilong Bao, Qianqian Xu<sup>\*</sup>, Zhiyong Yang, **Cong Hua**, Boyu Han, Xiaochun Cao, Qingming Huang<sup>\*</sup>. Chinese Journal of Computers 2025
+
+[\[Paper\]]([https://doi.org/10.1016/j.cag.2022.07.020](https://kns.cnki.net/kcms2/article/abstract?v=RNPVX-4KY7hsOlChNoeEB7PZxZNApTf5MM9Ru5Di7mEAlIuIH4bDlwMPE6O7eyxR54h9THYXD8oJK0WTuRU7oXZD8WjRHjbXmIdxGP8Lq6LJSUPAo7oRMEZemAbYjKYfUW9UG4hdU9G_HrtbIE_TAutiMhu9iHcvNpm_sRm1Llg=&uniplatform=NZKPT))
+
+
+- This paper presents a systematic investigation of a more generalized and efficient AdAUC framework, introducing a novel Ranking-aware Adversarial Regularization algorithm to achieve a better balance between standard and robust AUC performance.
 </div>
 </div>
 
@@ -83,7 +102,7 @@ IEEE Transactions on Neural Networks and Learning Systems (**IEEE TNNLS**) 2023
 
 **<font size=4>SHREC'22 Track: Open-Set 3D Object Retrieval</font>**
 
-$28$ authors including **Cong Hua**. Computers Graphics 2022
+$28$ authors including **Cong Hua**. Computers and Graphics 2022
 
 [\[Paper\]](https://doi.org/10.1016/j.cag.2022.07.020) \|[\[Track\]](https://www.moon-lab.tech/shrec22) 
 
