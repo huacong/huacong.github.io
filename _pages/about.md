@@ -111,9 +111,6 @@ $28$ authors including **Cong Hua**. Computers and Graphics 2022
 </div>
 </div>
 
-# Competitons
-
-
 # 📖 Academic Services
 **Conferences**
 
