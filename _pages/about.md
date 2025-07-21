@@ -122,7 +122,7 @@ $28$ authors including **Cong Hua**. Computers and Graphics 2022
 **Journals**
 
  - IEEE Transactions on Multimedia (T-MM): Reviewer
- - IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS): Reviewer
+ - IEEE Transactions on Neural Networks and Learning Systems (TNNLS): Reviewer
  - IEEE Transactions on Circuits and Systems for Video Technology publication information (T-CSVT): Reviewer
  - ACM Transactions on Multimedia Computing, Communications and Applications (TOMM): Reviewer
 
