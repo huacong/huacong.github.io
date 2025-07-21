@@ -22,9 +22,10 @@ redirect_from:
 Hi! I'm Cong Hua (华聪, E-mail: huacong23z@ict.ac.cn). Now I am a PhD. Student of **Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)**, supervised by Prof. [Qingming Huang](https://qmhuang-ucas.github.io/) (IEEE Fellow) and [Qianqian Xu](https://qianqianxu010.github.io/) (Professor at ICT, CAS). I have received the B.E. degree in computer science and technology from [Jilin University](https://www.jlu.edu.cn/), advised by [Yu Jiang](https://ccst.jlu.edu.cn/info/1028/19116.htm) and [Yue Gao](https://www.gaoyue.org/). My research interests include machine learning and multi-modal learning. I have authored or co-authored several academic papers in top-tier international conferences and journals, including ICML and TNNLS. If you are interested in my research, please email me at <a href="huacong23z@ict.ac.cn">huacong23z@ict.ac.cn</a>.
 
 
-<!-- I am also lucky to have opportunities to collaborate with [Zhiyong Yang (杨智勇)](https://joshuaas.github.io/) (Assistant Professor at UCAS) and [Yangbangyan Jiang (姜阳邦彦)](https://jiangyangby.github.io/) (Postdoc at UCAS). -->
+
 
 <!-- # 🔥 News
+
 - *2022.11*: &nbsp;🎉🎉 I have obtained the National Scholarship (国家奖学金) from the Ministry of Education of the People’s Republic of China.
 - *2022.09*: &nbsp;🎉🎉 Two of our papers have been accepted by NeurIPS 2022 (One paper has been selected as an oral presentation and one is a poster). 
 - *2022.06*: &nbsp;🎉🎉 Our XCurve-v1.0.0 library has been released! Please try now and give us feedback! -->
@@ -34,7 +35,6 @@ Hi! I'm Cong Hua (华聪, E-mail: huacong23z@ict.ac.cn). Now I am a PhD. Student
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/openworldauc.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 **<font size=4>OpenworldAUC: Towards Unified Evaluation and Optimization for Open-world Prompt Tuning</font>**
 
 **Cong Hua**, Qianqian Xu<sup>\*</sup>, Zhiyong Yang, Zitai Wang, Shilong Bao, Qingming Huang<sup>\*</sup>
@@ -43,7 +43,7 @@ International Conference on Machine Learning (**ICML**) 2025
 
 [\[Paper\]](https://huacong.github.io/) \|[\[Code\]](https://huacong.github.io/) \| [\[Project\]](https://huacong.github.io/)
 
-- This paper proposes **OpenworldAUC**, a metric for Open-World Prompt Tuning, unifying base-to-new detection, base/new classification, and robustness to domain shifts. The Gated Mixture-of-Prompts framework jointly optimizes OpenworldAUC via multi-prompt collaboration under a divide-and-conquer strategy, supported by theoretical guarantees.
+- This paper proposes **OpenworldAUC**, a metric for Open-World Prompt Tuning, unifying base-to-new detection, base/new classification, and robustness to domain shifts.
 </div>
 </div>
 
@@ -111,6 +111,8 @@ $28$ authors including **Cong Hua**. Computers and Graphics 2022
 </div>
 </div>
 
+# Competitons
+
 
 # 📖 Academic Services
 **Conferences**
@@ -119,7 +121,7 @@ $28$ authors including **Cong Hua**. Computers and Graphics 2022
  - *ICLR*: Reviewer (2025)
  - *AISTATS*: Reviewer (2025)
  - *ICML*: Reviewer (2025)
- 
+
 **Journals**
 
  - IEEE Transactions on Multimedia (T-MM): Reviewer
@@ -130,7 +132,7 @@ $28$ authors including **Cong Hua**. Computers and Graphics 2022
 
 # 💬 Invited Talks
 - *2024.12*: &nbsp; TechBeat Talk of ICML 2024. [\[Video\]](https://www.techbeat.net/talk-info?id=932).
-- *2024.12*: &nbsp; Give a talk about "Modality competition and Modality reconcilement" @ Gaoling School of Artificial Intelligence, Renmin University of China! Thanks for the invitation from Prof. [Di Hu](https://dtaoo.github.io/)! [\[Slides\]](https://github.com/huacong/ReconBoost/blob/main/Reconboost-slides.pdf).
+- *2024.12*: &nbsp; Give a talk about "Boosting Can Achieve Modality Reconcilement" @ Gaoling School of Artificial Intelligence, Renmin University of China! Thanks for the invitation from Prof. [Di Hu](https://dtaoo.github.io/)! [\[Slides\]](https://github.com/huacong/ReconBoost/blob/main/Reconboost-slides.pdf).
 - *2024.12*: &nbsp; Young Scientists Conference of CSIG. [\[Poster\]](https://github.com/huacong/ReconBoost/blob/main/%E5%8D%8E%E8%81%AA_CSIG2024_Poster.png).
 
 
