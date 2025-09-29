@@ -111,7 +111,7 @@ $28$ authors including **Cong Hua**. Computers and Graphics 2022
 </div>
 </div>
 
-# Competition
+# 🏆 Competitions
 
 **<font size=4>3DCoMPaT Grounded CoMPaT Recognition Challenge (Coarse Track) @ CVPR 2025, 1st Place</font>**
 
@@ -143,6 +143,8 @@ Team: Sicong Li, Qianqian Xu, **Cong Hua**, Yangbangyan Jiang, Qingming Huang
 
 
 # 💬 Invited Talks
+- *2025.09*: &nbsp; Gave a talk at the PhD Student Forum of the CSIG Young Scientists Conference 2025. [\[Website\]](https://mp.weixin.qq.com/s/d8OEev4AejSY9dCW7t9G2Q).
+- *2025.05*: &nbsp; Gave a talk at the 7th Academic Forum on Artificial Intelligence of Beijing Universities – Workshop on Pattern Recognition and Multimodal Learning, and received the **Best Student Presentation Award 🏆**. [\[Website\]](https://mp.weixin.qq.com/s/xxkoJ6stNL9KL0jxUpDKTw).
 - *2024.12*: &nbsp; TechBeat Talk of ICML 2024. [\[Video\]](https://www.techbeat.net/talk-info?id=932).
 - *2024.12*: &nbsp; Give a talk about "Boosting Can Achieve Modality Reconcilement" @ Gaoling School of Artificial Intelligence, Renmin University of China! Thanks for the invitation from Prof. [Di Hu](https://dtaoo.github.io/)! [\[Slides\]](https://github.com/huacong/ReconBoost/blob/main/Reconboost-slides.pdf).
 - *2024.12*: &nbsp; Young Scientists Conference of CSIG. [\[Poster\]](https://github.com/huacong/ReconBoost/blob/main/%E5%8D%8E%E8%81%AA_CSIG2024_Poster.png).
