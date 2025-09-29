@@ -111,12 +111,27 @@ $28$ authors including **Cong Hua**. Computers and Graphics 2022
 </div>
 </div>
 
+# Competition
+
+**<font size=4>3DCoMPaT Grounded CoMPaT Recognition Challenge (Coarse Track) @ CVPR 2025, 1st Place</font>**
+
+Team: **Cong Hua**, Qianqian Xu, Zitai Wang, Zhiyong Yang, Shilong Bao, Qingming Huang
+
+[\[Website\]](https://3dcompat-dataset.org/workshop/C3DV25/) \| [\[Leaderboard\]](https://eval.ai/web/challenges/challenge-page/2455/leaderboard/6095)
+
+
+**<font size=4>3DCoMPaT Grounded CoMPaT Recognition Challenge (Fine track) @ CVPR 2025, 1st Place</font>**
+
+Team: Sicong Li, Qianqian Xu, **Cong Hua**, Yangbangyan Jiang, Qingming Huang
+
+[\[Website\]](https://3dcompat-dataset.org/workshop/C3DV25/) \| [\[Leaderboard\]](https://eval.ai/web/challenges/challenge-page/2455/leaderboard/6096) 
+
 # 📖 Academic Services
 **Conferences**
 
  - *NeurIPS*: Reviewer (2024, 2025)
- - *ICLR*: Reviewer (2025)
- - *AISTATS*: Reviewer (2025)
+ - *ICLR*: Reviewer (2025, 2026)
+ - *AISTATS*: Reviewer (2025, 2026)
  - *ICML*: Reviewer (2025)
 
 **Journals**
