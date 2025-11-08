@@ -81,6 +81,43 @@ IEEE Transactions on Neural Networks and Learning Systems (**IEEE TNNLS**) 2023
 
 ---------------------------
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI'26</div><img src='images/TUCK.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**<font size=4>TuckA: Hierarchical Compact Tensor Experts for Efficient Fine-Tuning</font>**
+
+Qifeng Lei, Zhiyong Yang<sup>\*</sup>, Qianqian Xu, Cong Hua, Peisong Wen, Qingming Huang<sup>\*</sup>. 
+
+
+Association for the Advancement of Artificial Intelligence (**AAAI**) 2025
+
+[\[Paper\]]()
+
+
+- This paper proposes a novel **tensor-based PEFT framework** that leverages Tucker decomposition to create a compact ensemble of adaptation experts.
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI'26</div><img src='images/BEP.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**<font size=4>Quantifying the Potential to Escape Filter Bubbles: A Behavior-Aware Measure via Contrastive Simulation</font>**
+
+Difu feng, Qianqian Xu<sup>\*</sup>, Zitai Wang, **Cong Hua**, Zhiyong Yang, Qingming Huang<sup>\*</sup>.
+
+Association for the Advancement of Artificial Intelligence (**AAAI**) 2025
+
+[\[Paper\]]()
+
+
+- This paper introduce Bubble Escape Potential, a novel behavior-aware metric for **measuring filter bubble sever ity by contrastive user behavioral intent**.
+</div>
+</div>
+
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CJC'25</div><img src='images/robustauc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
