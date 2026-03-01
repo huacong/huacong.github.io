@@ -15,11 +15,11 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-# About Me
+# About Me 
 
-<span class='anchor' id='about-me'></span>
+<span class='anchor' id='about-me'></span> 
 
-Hi! I'm Cong Hua (华聪, E-mail: huacong23z@ict.ac.cn). Now I am a PhD. Student of **Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)**, supervised by Prof. [Qingming Huang](https://qmhuang-ucas.github.io/) (IEEE Fellow) and [Qianqian Xu](https://qianqianxu010.github.io/) (Professor at ICT, CAS). I have received the B.E. degree in computer science and technology from [Jilin University](https://www.jlu.edu.cn/), advised by [Yu Jiang](https://ccst.jlu.edu.cn/info/1028/19116.htm) and [Yue Gao](https://www.gaoyue.org/). My research interests include machine learning and multi-modal learning. I have authored or co-authored several academic papers in top-tier international conferences and journals, including ICML and TNNLS. If you are interested in my research, please email me at <a href="huacong23z@ict.ac.cn">huacong23z@ict.ac.cn</a>.
+Hi! I'm Cong Hua (华聪, E-mail: huacong23z@ict.ac.cn). Now I am a PhD. Student of **Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)**, supervised by Prof. [Qingming Huang](https://qmhuang-ucas.github.io/) (IEEE Fellow) and [Qianqian Xu](https://qianqianxu010.github.io/) (Professor at ICT, CAS). I have received the B.E. degree in computer science and technology from [Jilin University](https://www.jlu.edu.cn/), advised by [Yu Jiang](https://ccst.jlu.edu.cn/info/1028/19116.htm) and [Yue Gao](https://www.gaoyue.org/). My research interests include machine learning and multi-modal learning. I have authored or co-authored several academic papers in top-tier international conferences and journals, including ICML and TNNLS. If you are interested in my research, please email me at <a href="huacong23z@ict.ac.cn">huacong23z@ict.ac.cn</a>. 
 
 
 
@@ -41,7 +41,7 @@ Hi! I'm Cong Hua (华聪, E-mail: huacong23z@ict.ac.cn). Now I am a PhD. Student
 
 International Conference on Machine Learning (**ICML**) 2025
 
-[\[Paper\]](https://huacong.github.io/) \|[\[Code\]](https://huacong.github.io/) \| [\[Project\]](https://huacong.github.io/)
+[\[Paper\]](https://proceedings.mlr.press/v267/hua25d.html) \|[\[Code\]](https://huacong.github.io/) 
 
 - This paper proposes **OpenworldAUC**, a metric for Open-World Prompt Tuning, unifying base-to-new detection, base/new classification, and robustness to domain shifts.
 </div>
@@ -57,7 +57,7 @@ International Conference on Machine Learning (**ICML**) 2025
 
 International Conference on Machine Learning (**ICML**) 2024
 
-[\[Paper\]](https://arxiv.org/pdf/2405.09321) \|[\[Code\]](https://github.com/huacong/ReconBoost) \| [\[Project\]](https://github.com/huacong/ReconBoost)
+[\[Paper\]](https://arxiv.org/pdf/2405.09321) \|[\[Code\]](https://github.com/huacong/ReconBoost)
 
 - This paper explores a novel multi-modal **alternating** learning paradigm pursuing a reconciliation between the exploitation of uni-modal features and the exploration of cross-modal interactions.
 </div>
@@ -79,20 +79,35 @@ IEEE Transactions on Neural Networks and Learning Systems (**IEEE TNNLS**) 2023
 </div>
 </div>
 
----------------------------
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR'26</div><img src='images/OOD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**<font size=4>Mind the Way You Select Negative Texts:Pursuing the Distance Consistency in OOD Detection with VLMs</font>**
+
+Zhikang Xu, Qianqian Xu<sup>\*</sup>, Zitai Wang, **Cong Hua**, Sicong Li, Zhiyong Yang, Qingming Huang<sup>\*</sup>. 
+
+
+Conference on Computer Vision and Pattern Recognition (**CVPR**) 2026
+
+[\[Paper\]]() \|[\[Code\]]()
+
+- This paper reveals the inherent inconsistency in existing VLM-based OOD detection methods that rely on intra-modal distances, which contradict the CLIP' original inter-modal optimization objectives. To address this, the proposed method pursues distance consistency by systematically leveraging inter-modal guidance for negative text selection.
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI'26</div><img src='images/TUCK.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **<font size=4>TuckA: Hierarchical Compact Tensor Experts for Efficient Fine-Tuning</font>**
 
-Qifeng Lei, Zhiyong Yang<sup>\*</sup>, Qianqian Xu, Cong Hua, Peisong Wen, Qingming Huang<sup>\*</sup>. 
+Qifeng Lei, Zhiyong Yang<sup>\*</sup>, Qianqian Xu, **Cong Hua**, Peisong Wen, Qingming Huang<sup>\*</sup>. 
 
 
-Association for the Advancement of Artificial Intelligence (**AAAI**) 2025
+Association for the Advancement of Artificial Intelligence (**AAAI**) 2026
 
-[\[Paper\]]()
-
+[\[Paper\]](https://arxiv.org/pdf/2511.06859) \|[\[Code\]](https://github.com/LQF39466/TuckA)
 
 - This paper proposes a novel **tensor-based PEFT framework** that leverages Tucker decomposition to create a compact ensemble of adaptation experts.
 </div>
@@ -107,9 +122,9 @@ Association for the Advancement of Artificial Intelligence (**AAAI**) 2025
 
 Difu feng, Qianqian Xu<sup>\*</sup>, Zitai Wang, **Cong Hua**, Zhiyong Yang, Qingming Huang<sup>\*</sup>.
 
-Association for the Advancement of Artificial Intelligence (**AAAI**) 2025
+Association for the Advancement of Artificial Intelligence (**AAAI**) 2026
 
-[\[Paper\]]()
+[\[Paper\]](https://arxiv.org/pdf/2512.03067) \|[\[Code\]](https://github.com/fengdifu24/bepmetric)
 
 
 - This paper introduce Bubble Escape Potential, a novel behavior-aware metric for **measuring filter bubble sever ity by contrastive user behavioral intent**.
@@ -170,6 +185,8 @@ Team: Sicong Li, Qianqian Xu, **Cong Hua**, Yangbangyan Jiang, Qingming Huang
  - *ICLR*: Reviewer (2025, 2026)
  - *AISTATS*: Reviewer (2025, 2026)
  - *ICML*: Reviewer (2025)
+ - *CVPR*: Reviewer (2026)
+ - *ECCV*: Reviewer (2026)
 
 **Journals**
 
@@ -180,16 +197,18 @@ Team: Sicong Li, Qianqian Xu, **Cong Hua**, Yangbangyan Jiang, Qingming Huang
 
 
 # 💬 Invited Talks
-- *2025.09*: &nbsp; Gave a talk at the PhD Student Forum of the CSIG Young Scientists Conference 2025. [\[Website\]](https://mp.weixin.qq.com/s/d8OEev4AejSY9dCW7t9G2Q).
-- *2025.05*: &nbsp; Gave a talk at the 7th Academic Forum on Artificial Intelligence of Beijing Universities – Workshop on Pattern Recognition and Multimodal Learning, and received the **Best Student Presentation Award 🏆**. [\[Website\]](https://mp.weixin.qq.com/s/xxkoJ6stNL9KL0jxUpDKTw).
+- *2025.09* Give a talk at the Graduate Student Academic Forum of the Journal of Image and Graphics (JIG), and receive the **Distinguished Presentation 🏆**. [\[Video\]](https://www.bilibili.com/video/BV1qpxyziE6K/?share_source=copy_web&vd_source=ea077257773f02e483ce2b845ccb3f41)
+- *2025.09*: &nbsp; Give a talk at the PhD Student Forum of the CSIG Young Scientists Conference 2025. [\[Website\]](https://mp.weixin.qq.com/s/d8OEev4AejSY9dCW7t9G2Q).
+- *2025.05*: &nbsp; Give a talk at the 7th Academic Forum on Artificial Intelligence of Beijing Universities – Workshop on Pattern Recognition and Multimodal Learning, and receive the **Best Student Presentation Award 🏆**. [\[Website\]](https://mp.weixin.qq.com/s/xxkoJ6stNL9KL0jxUpDKTw).
 - *2024.12*: &nbsp; TechBeat Talk of ICML 2024. [\[Video\]](https://www.techbeat.net/talk-info?id=932).
 - *2024.12*: &nbsp; Give a talk about "Boosting Can Achieve Modality Reconcilement" @ Gaoling School of Artificial Intelligence, Renmin University of China! Thanks for the invitation from Prof. [Di Hu](https://dtaoo.github.io/)! [\[Slides\]](https://github.com/huacong/ReconBoost/blob/main/Reconboost-slides.pdf).
 - *2024.12*: &nbsp; Young Scientists Conference of CSIG. [\[Poster\]](https://github.com/huacong/ReconBoost/blob/main/%E5%8D%8E%E8%81%AA_CSIG2024_Poster.png).
 
 
 # 🎖 Honors and Awards
-- *2023* Excellent graduate thesis of Jilin University. (吉林大学优秀毕业论文)
-- *2023* Excellent graduate of Jilin University. (吉林大学优秀毕业生) 
+- Youth Talents Support Project - Doctoral Student Special Program, 2025 December. (中国科协青年人才托举工程-博士生专项)
+- Excellent graduate thesis of Jilin University, 2023 June. (吉林大学优秀毕业论文)
+- Excellent graduate of Jilin University, 2023 June. (吉林大学优秀毕业生) 
 
 # 🎓 Educations
 
